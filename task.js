@@ -4,7 +4,7 @@
 // }
 // console.log(module);
 
-// export const user = {
+// export const users = {
 //   username: "Ahmadsher",
 //   password: "6205xxxx",
 // };
